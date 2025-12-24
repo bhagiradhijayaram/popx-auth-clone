@@ -47,3 +47,19 @@ For demo purposes, authentication is simulated on the client side without backen
 - This keeps the code clean while improving user experie
 
 ## Project Structure
+```
+src/
+├── assets/
+├── components/
+│   ├── common/
+│   └── auth/
+├── pages/
+│   ├── Welcome.jsx
+│   ├── Register.jsx
+│   ├── Login.jsx
+│   └── Account.jsx
+├── routes/
+│   └── AppRoutes.jsx
+├── App.jsx
+└── main.jsx
+```
