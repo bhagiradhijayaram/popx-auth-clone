@@ -63,8 +63,8 @@ src/
 
 ## UI Screenshots
 <img width="450" height="800" alt="screencapture-localhost-5173-2025-12-24-12_20_30" src="https://github.com/user-attachments/assets/3b1900e0-fec2-4665-9ce9-0452831c2516" />
-<img width="450" height="800" alt="screencapture-localhost-5173-register-2025-12-24-12_16_37" src="https://github.com/user-attachments/assets/f3d67ab3-b2c4-47c9-a29a-bd976b536385" />
-<img width="450" height="800" alt="screencapture-localhost-5173-login-2025-12-24-12_19_56" src="https://github.com/user-attachments/assets/cfabba99-b2af-40eb-a211-3d855711c497" />
+<img width="450" height="800" alt="screencapture-joyful-cendol-6132ea-netlify-app-register-2025-12-24-14_47_38" src="https://github.com/user-attachments/assets/392b672e-357c-48ed-ac28-22aeab306ce0" />
+<img width="450" height="800" alt="screencapture-joyful-cendol-6132ea-netlify-app-login-2025-12-24-14_48_10" src="https://github.com/user-attachments/assets/18c9a9df-9a6f-4e46-9d9e-4d521722754a" />
 <img width="450" height="800" alt="screencapture-localhost-5173-account-2025-12-24-12_17_39" src="https://github.com/user-attachments/assets/dd0862b1-d1b0-492d-b12a-1631caff4624" />
 
 
