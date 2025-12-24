@@ -13,3 +13,10 @@ Website Link: https://popx-clone.netlify.app/
 - Account Settings
 
 The mobile app interface is centered on the webpage to simulate a real mobile experience on desktop.
+
+## Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- React Router DOM
+- JavaScript (ES6+)
