@@ -20,3 +20,14 @@ The mobile app interface is centered on the webpage to simulate a real mobile ex
 - Tailwind CSS
 - React Router DOM
 - JavaScript (ES6+)
+
+## Features
+
+- Pixel-perfect UI based on provided designs
+- Mobile-first layout with centered app container
+- Floating input labels (PopX style)
+- Clean form components
+- Client-side validation
+- Proper button and link semantics
+- Seamless page navigation (no reloads)
+- Responsive and accessible design
