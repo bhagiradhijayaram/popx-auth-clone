@@ -34,7 +34,7 @@ The mobile app interface is centered on the webpage to simulate a real mobile ex
 
 ## Authentication Flow
 
-Create Account → Account Settings
-Login → Account Settings
+- Create Account → Account Settings
+- Login → Account Settings
 
 For demo purposes, authentication is simulated on the client side without backend integration.
