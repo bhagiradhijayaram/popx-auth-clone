@@ -38,3 +38,10 @@ The mobile app interface is centered on the webpage to simulate a real mobile ex
 - Login → Account Settings
 
 For demo purposes, authentication is simulated on the client side without backend integration.
+
+## Validation
+
+- Basic client-side validation is implemented using:
+- Native HTML attributes (required, minLength)
+- Simple state-based checks to enable/disable submit buttons
+- This keeps the code clean while improving user experie
