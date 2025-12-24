@@ -60,3 +60,6 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
+
+## UI Screenshot
+<img width="450" height="800" alt="screencapture-localhost-5173-2025-12-24-12_20_30" src="https://github.com/user-attachments/assets/3b1900e0-fec2-4665-9ce9-0452831c2516" />
