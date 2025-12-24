@@ -45,3 +45,5 @@ For demo purposes, authentication is simulated on the client side without backen
 - Native HTML attributes (required, minLength)
 - Simple state-based checks to enable/disable submit buttons
 - This keeps the code clean while improving user experie
+
+## Project Structure
