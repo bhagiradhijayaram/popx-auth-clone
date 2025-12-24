@@ -31,3 +31,10 @@ The mobile app interface is centered on the webpage to simulate a real mobile ex
 - Proper button and link semantics
 - Seamless page navigation (no reloads)
 - Responsive and accessible design
+
+## Authentication Flow
+
+Create Account → Account Settings
+Login → Account Settings
+
+For demo purposes, authentication is simulated on the client side without backend integration.
