@@ -50,9 +50,6 @@ For demo purposes, authentication is simulated on the client side without backen
 ```
 src/
 ├── assets/
-├── components/
-│   ├── common/
-│   └── auth/
 ├── pages/
 │   ├── Welcome.jsx
 │   ├── Register.jsx
